@@ -14,7 +14,8 @@ Originally developed as a group project during the course *Prototyputveckling f√
 ```
 
 2. Create a `.env` file
-```PORT=3002`
+```
+PORT=3002
 ```
 
 3. Start the server
